@@ -66,7 +66,7 @@ From the results obtained in the explained experiments,  we found out that the b
 **Our model outperforms the original paper model in all used metrics** as shown in the following table:
 
 <p align="center">
-  <img width="650" height="350" src="Images/results.PNG">
+  <img src="Images/results.PNG">
 </p>
 
 These results obtained from testing on the **test set which contains 2990 videos**.
